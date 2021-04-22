@@ -13,17 +13,7 @@ Tag.init(
     },
     tag_name: {
       type: DataTypes.STRING,
-    },
-    producttag_id: {
-      type: DataTypes.INTEGER,
-      reference: {
-        model: "producttag",
-        key: "id",
-      },
-    },
-    tag_id: {
-      type: DataTypes.INTEGER,
-    },
+    }
   },
   {
     sequelize,
