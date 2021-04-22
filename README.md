@@ -1,4 +1,6 @@
 # E-Commerce
+Github https://github.com/kylegavinsimone/E-Commerce.git
+video https://drive.google.com/file/d/1Cda3bfOyEvGy4lyq2NcahjtQrrhAEjfI/view
 
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
 
